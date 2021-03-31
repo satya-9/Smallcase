@@ -1,0 +1,39 @@
+
+.App{
+    background-color: #eee;
+    margin: 15px;
+    padding: 10px;
+}
+.data{
+    margin: 15px;
+    padding: 15px;
+    background-color:white;
+    border-radius: 8px;
+}
+.data-question{
+    position: relative;
+    font-size: 20px;
+
+}
+.data-matter{
+    opacity: 0;
+}
+.data-questionopen{
+    opacity: 1;
+
+}
+.image{
+    position: absolute;
+    width: 20px;
+    height: 30px;
+    right: 15px;
+
+}
+.down{
+    margin: 20px;
+    padding: 20px;
+}
+.dataopenr{
+    display: flex;
+    flex-direction: row;
+}
